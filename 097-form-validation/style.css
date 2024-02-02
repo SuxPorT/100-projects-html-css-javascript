@@ -34,7 +34,7 @@ form input {
   outline: none;
 }
 
-input[type='submit'] {
+input[type="submit"] {
   width: 230px;
   background: var(--primary-color);
   border: none;

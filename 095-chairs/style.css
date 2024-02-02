@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap");
 
 * {
   padding: 0;
@@ -9,7 +9,7 @@
 :root {
   --main-color: #e3e8e4;
   --primary-color: #363636;
-  --main-font: 'Playfair Display SC', serif;
+  --main-font: "Playfair Display SC", serif;
 }
 
 nav {
@@ -159,17 +159,17 @@ header {
 }
 
 .product .product-img-layer .img-one {
-  background: url('assets/daniil-silantev-1P6AnKDw6S8-unsplash-removebg-preview.png');
+  background: url("assets/daniil-silantev-1P6AnKDw6S8-unsplash-removebg-preview.png");
   background-size: cover;
   background-position: center;
 }
 .product .product-img-layer .img-two {
-  background: url('assets/bruno-emmanuelle--MUoHL1XULM-unsplash-removebg-preview.png');
+  background: url("assets/bruno-emmanuelle--MUoHL1XULM-unsplash-removebg-preview.png");
   background-size: cover;
   background-position: center;
 }
 .product .product-img-layer .img-three {
-  background: url('assets/scott-webb-eD853mTbBA0-unsplash-removebg-preview.png');
+  background: url("assets/scott-webb-eD853mTbBA0-unsplash-removebg-preview.png");
   background-size: cover;
   background-position: center;
 }
@@ -219,7 +219,7 @@ header {
 .why-us .img-layer .img {
   width: 400px;
   height: 400px;
-  background: url('assets/scott-webb-eD853mTbBA0-unsplash-removebg-preview.png');
+  background: url("assets/scott-webb-eD853mTbBA0-unsplash-removebg-preview.png");
   background-size: cover;
   background-position: center;
 }

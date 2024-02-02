@@ -1,9 +1,9 @@
-@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@900&family=Roboto&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Playfair+Display:wght@900&family=Roboto&display=swap");
 
 :root {
   --main-color: #37132d;
-  --main-font: 'Playfair Display', serif;
-  --secondary-font: 'Roboto', sans-serif;
+  --main-font: "Playfair Display", serif;
+  --secondary-font: "Roboto", sans-serif;
 }
 
 * {
@@ -100,7 +100,7 @@ ul li a {
 }
 
 .experience-img {
-  background-image: url('assets/eugene-chystiakov-taZSJ6xmt48-unsplash.jpg');
+  background-image: url("assets/eugene-chystiakov-taZSJ6xmt48-unsplash.jpg");
   background-size: cover;
   background-position: center;
   width: 300px;
@@ -156,7 +156,7 @@ ul li a {
 }
 
 .hero-img-container {
-  background-image: url('assets/albert-dera-ILip77SbmOE-unsplash.jpg');
+  background-image: url("assets/albert-dera-ILip77SbmOE-unsplash.jpg");
   background-size: cover;
   background-position: top;
   width: 300px;
@@ -210,13 +210,13 @@ ul li a {
 }
 
 .img-one {
-  background-image: url('assets/john-arano-CCTCHXEsan8-unsplash.jpg');
+  background-image: url("assets/john-arano-CCTCHXEsan8-unsplash.jpg");
 }
 .img-two {
-  background-image: url('assets/allef-vinicius-IvQeAVeJULw-unsplash.jpg');
+  background-image: url("assets/allef-vinicius-IvQeAVeJULw-unsplash.jpg");
 }
 .img-three {
-  background-image: url('assets/christoffer-engstrom-1ouGlRChSbY-unsplash.jpg');
+  background-image: url("assets/christoffer-engstrom-1ouGlRChSbY-unsplash.jpg");
 }
 
 .card-content {
